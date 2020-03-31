@@ -16,12 +16,12 @@ file.m
 
 file.m
 
-Third-party dependency
+UQLab dependency
 
-To have UQLab package installed is necessary to use the SoBioS code.
-
-This external package is available for free for academic use, and can be downloaded from:
+In order to use the SoBioS code, it is necessary to have UQLab package installed:
 https://www.uqlab.com
+
+This external package is free for academic use.
 
 Support
 
