@@ -9,29 +9,39 @@ SoBioS is an easy to run Matlab code used for Sobol' indices global sensitivity 
 The SoBioS code consists of the following modules:
 
 file.m
-file.m
-file.m
+
 file.m
 
-Third-party dependency:
+file.m
+
+file.m
+
+Third-party dependency
+
 To have UQLab package installed is necessary to use the SoBioS code.
 
 This external package is available for free for academic use, and can be downloaded from:
 https://www.uqlab.com
 
 Support
+
 Full user guides for SoBioS packages are provided in the doc directory along with documentation for example programs.
 
 Authors:
+
 Adriano Cortês (UFRJ)
+
 Michel Tosin (UERJ)
+
 Americo Cunha (UERJ)
 
-Citing SoBioS
+Citing SoBioS:
+
 We ask users of SoBioS to cite the following book chapter in any publications reporting work done with SoBioS:
 
 
 
 
 License
+
 SoBioS is released under the MIT license. See the LICENSE and NOTICE files for details. All new contributions must be made under the MIT license.
