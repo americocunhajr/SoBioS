@@ -16,7 +16,7 @@ file.m
 
 file.m
 
-UQLab dependency
+# # UQLab dependency
 
 In order to use the SoBioS code, it is necessary to have UQLab package installed:
 https://www.uqlab.com
