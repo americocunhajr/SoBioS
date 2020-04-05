@@ -1,8 +1,5 @@
 # SoBioS - Sobol indices for Biological Systems
 
-Version 1.0 (April 2020)
-
-
 SoBioS is an easy to run Matlab code used for Sobol' indices global sensitivity analysis of Biological Systems. It strongly uses the utilities available in the UQLab package (https://www.uqlab.com/). The implementation follows an educational style, to make its use very intuitive, in the same style that can be seen in UQLab tutorials.
 
 
@@ -35,13 +32,13 @@ Michel Tosin (UERJ)
 
 Americo Cunha (UERJ)
 
+www.americocunha.org
+
 ## Citing SoBioS:
 
 We ask users of SoBioS to cite the following book chapter in any publications reporting work done with SoBioS:
 
 
-
-
-License
+## License
 
 SoBioS is released under the MIT license. See the LICENSE and NOTICE files for details. All new contributions must be made under the MIT license.
