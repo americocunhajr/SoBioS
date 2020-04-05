@@ -16,18 +16,18 @@ file.m
 
 file.m
 
-# # UQLab dependency
+## UQLab dependency
 
 In order to use the SoBioS code, it is necessary to have UQLab package installed:
 https://www.uqlab.com
 
 This external package is free for academic use.
 
-Support
+## Support
 
 Full user guides for SoBioS packages are provided in the doc directory along with documentation for example programs.
 
-Authors:
+## Authors:
 
 Adriano Cortês (UFRJ)
 
@@ -35,7 +35,7 @@ Michel Tosin (UERJ)
 
 Americo Cunha (UERJ)
 
-Citing SoBioS:
+## Citing SoBioS:
 
 We ask users of SoBioS to cite the following book chapter in any publications reporting work done with SoBioS:
 
