@@ -5,13 +5,11 @@ SoBioS is an easy to run Matlab code used for Sobol' indices global sensitivity 
 
 The SoBioS code consists of the following modules:
 
-file.m
+SoBioS.m - the main file where are defined all the details for the simulation and where the UQLab packages are called  
 
-file.m
+QoI.m    - a right-hand-size (rhs) function to compute your specific system
 
-file.m
-
-file.m
+valplot.m - as the UQLab don't have a simple command to plot validation plots (in the best of our knowgedge), this routine               perform the validation and error's plots 
 
 ## UQLab dependency
 
