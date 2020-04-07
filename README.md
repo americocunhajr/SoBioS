@@ -7,7 +7,7 @@ The SoBioS code consists of the following modules:
 
 SoBioS.m - the main file where are defined all the details for the simulation and where the UQLab packages are called  
 
-QoI.m    - a right-hand-size (rhs) function to compute your specific system
+QoI.m    - a function to compute the Quantity of Interest (QoI)
 
 valplot.m - as the UQLab don't have a simple command to plot validation plots (in the best of our knowgedge), this routine               perform the validation and error's plots 
 
