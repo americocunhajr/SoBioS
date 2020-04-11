@@ -20,7 +20,10 @@ This external package is free for academic use.
 
 ## Support
 
-Full user guides for SoBioS packages are provided in the doc directory along with documentation for example programs.
+A tutotial for the SoBioS packages is provided in the following book chapter:
+
+Adriano Côrtes, Michel Tosin, Americo Cunha Jr, A Tutorial on Sobols' Global Sensitivity Analysis Applied to Biological Models, 2020
+
 
 ## Authors:
 
