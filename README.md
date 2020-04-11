@@ -26,13 +26,11 @@ Michel Tosin, Adriano Côrtes, Americo Cunha Jr, A Tutorial on Sobols' Global Se
 
 ## Authors:
 
-Michel Tosin (UERJ)
+Michel Tosin (UERJ) - https://www.researchgate.net/profile/Michel_Tosin
 
-Adriano Cortês (UFRJ)
+Adriano Cortês (UFRJ) - https://www.researchgate.net/profile/Adriano_Cortes
 
-Americo Cunha (UERJ)
-
-www.americocunha.org
+Americo Cunha (UERJ) - www.americocunha.org
 
 ## Citing SoBioS:
 
