@@ -34,7 +34,7 @@ Americo Cunha (UERJ) - www.americocunha.org
 
 ## Citing SoBioS:
 
-We ask users of SoBioS to cite the following book chapter in any publications reporting work done with SoBioS:
+We kindly ask users to cite the following reference in any publications reporting work done with SoBioS:
 
 Michel Tosin, Adriano Côrtes, Americo Cunha Jr, A Tutorial on Sobols' Global Sensitivity Analysis Applied to Biological Models, 2020
 
