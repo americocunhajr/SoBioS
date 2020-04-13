@@ -7,11 +7,11 @@
 
 The **SoBioS** code consists of the following modules:
 
-SoBioS_CaseName.m - main file for the simulation (use servaral resourses from UQLab package)
+SoBioS_CaseName.m - main file for the simulation (use servaral resourses from UQLab package);
 
-QoI_CaseName.m    - function to compute the Quantity of Interest (QoI)
+QoI_CaseName.m    - function to compute the Quantity of Interest (QoI). If your system is very complex, we recommend creating a separate file for the system equations
 
-valplot.m - function to compute and plot validation and error's metrics
+
 
 ## UQLab dependency
 
