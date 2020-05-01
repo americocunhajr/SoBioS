@@ -15,7 +15,7 @@ https://www.uqlab.com
 
 This external package is free for academic use.
 
-## Support
+## Tutorial
 
 A tutotial for the **SoBioS** packages is provided in the following book chapter:
 
