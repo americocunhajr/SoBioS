@@ -1,4 +1,4 @@
-# SoBioS - Sobol indices for Biological Systems
+# Sobol indices for Biological Systems
 
 ![SoBioS Logo](logo/SoBioS_logo.png)
 
