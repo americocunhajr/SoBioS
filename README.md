@@ -19,7 +19,7 @@ This external package is free for academic use.
 
 A tutotial for the **SoBioS** packages is provided in the following book chapter:
 
-Michel Tosin, Adriano Côrtes, Americo Cunha Jr, A Tutorial on Sobols' Global Sensitivity Analysis Applied to Biological Models, 2020
+*Michel Tosin, Adriano Côrtes, Americo Cunha Jr, A Tutorial on Sobols' Global Sensitivity Analysis Applied to Biological Models, 2020*
 
 ## Authors:
 
@@ -33,7 +33,7 @@ Americo Cunha (UERJ) - www.americocunha.org
 
 We kindly ask users to cite the following reference in any publications reporting work done with **SoBioS**:
 
-Michel Tosin, Adriano Côrtes, Americo Cunha Jr, A Tutorial on Sobols' Global Sensitivity Analysis Applied to Biological Models, 2020
+*Michel Tosin, Adriano Côrtes, Americo Cunha Jr, A Tutorial on Sobols' Global Sensitivity Analysis Applied to Biological Models, 2020*
 
 ## License
 
