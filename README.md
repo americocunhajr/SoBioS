@@ -22,12 +22,9 @@ A tutotial for the **SoBioS** packages is provided in the following book chapter
 *Michel Tosin, Adriano Côrtes, Americo Cunha Jr, A Tutorial on Sobols' Global Sensitivity Analysis Applied to Biological Models, 2020*
 
 ## Authors:
-
-Michel Tosin (UERJ) - https://www.researchgate.net/profile/Michel_Tosin
-
-Adriano Cortês (UFRJ) - https://www.researchgate.net/profile/Adriano_Cortes
-
-Americo Cunha (UERJ) - www.americocunha.org
+- Michel Tosin (UERJ) - https://www.researchgate.net/profile/Michel_Tosin
+- Adriano Cortês (UFRJ) - https://www.researchgate.net/profile/Adriano_Cortes
+- Americo Cunha (UERJ) - www.americocunha.org
 
 ## Citing SoBioS:
 
