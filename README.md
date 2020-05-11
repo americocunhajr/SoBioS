@@ -8,6 +8,12 @@ SoBioS_CaseName.m - main file for the simulation (use servaral resourses from UQ
 
 QoI_CaseName.m    - function to compute the Quantity of Interest (QoI).
 
+
+Further details about can be seen in:
+
+*Michel Tosin, Adriano Côrtes, Americo Cunha Jr, A Tutorial on Sobols' Global Sensitivity Analysis Applied to Biological Models, 2020*
+
+
 ## UQLab dependency
 
 In order to use the **SoBioS** code, it is necessary to have UQLab package installed:
