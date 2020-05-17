@@ -32,4 +32,4 @@ We kindly ask users to cite the following reference in any publications reportin
 
 ## License
 
-**SoBioS** is released under the MIT license. See the LICENSE and NOTICE files for details. All new contributions must be made under the MIT license.
+**SoBioS** is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.
