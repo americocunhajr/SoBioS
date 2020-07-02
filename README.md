@@ -21,7 +21,7 @@ This external package is free for academic use.
 
 ## Authors:
 - Michel Tosin (UERJ) - https://www.researchgate.net/profile/Michel_Tosin
-- Adriano Cortês (UFRJ) - https://www.researchgate.net/profile/Adriano_Cortes
+- Adriano Côrtes (UFRJ) - https://www.researchgate.net/profile/Adriano_Cortes
 - Americo Cunha (UERJ) - www.americocunha.org
 
 ## Citing SoBioS:
