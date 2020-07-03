@@ -16,8 +16,10 @@
 % ===========================================================================
 %  programmer: Michel Tosin
 %              michel.tosin@uerj.br
+%              Adriano Cortes
+%              adriano@nacad.ufrj.br
 %
-%  last update: Mar 14, 2020
+%  last update: Jul 02, 2020
 % ===========================================================================
 
 % ===========================================================================
@@ -49,12 +51,12 @@
          end
         
          param = [SP(n,:) IKK];
-         %param = SP(n,:);
          
          % ODE solver
         [time,y] = ode15s(@(t,x)rhs_nfkb_7vars(t,x,param),tspan,IC,opts);
         
-        %QoI is the
+        %QoI is the spike duration of the free nuclear NF-kB concentration, 
+        % defined as the time the concentration is above its mean.
         Nn_mean = mean(y(:,1));
         idx = (y(:,1) >= Nn_mean);
         spike_dur = (sum(idx)-1)*dt;
