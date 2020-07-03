@@ -1,4 +1,4 @@
-%% Right hand side of the 
+%% Right hand side of the
 % -----------------------------------------------------------------
 % This function defines the system of ODEs of a seven species
 % NF-kB signalling pathway as defined in
