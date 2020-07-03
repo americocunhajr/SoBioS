@@ -1,38 +1,44 @@
 %% Right hand side of the 
 % -----------------------------------------------------------------
-% This function defines the system of ODEs of the 
-% 
-% 
+% This function defines the system of ODEs of a seven species
+% NF-kB signalling pathway as defined in
+%
+% S. Krishna, M.H. Jensen, K. Sneppen, Minimal model of spiky 
+% oscillations in NF-􏲴B signaling, Proceedings of the National 
+% Academy of Sciences (PNAS) 103(29), 10840 (2006). 
+% DOI 10.1073/pnas.0604085103
 %   
 % ----------------------------------------------------------------- 
 %   Species:
 %   
-%   Nn  = free nuclear NF-kB [ ]
-%   N   = cytoplasmatic NF-kB [ ]
-%   Im  = 
-%   In  =
-%   I   =
-%   NIn =
-%   NI  = 
+%   Nn  = free nuclear NF-kB concentration
+%   N   = cytoplasmic NF-kB concentration
+%   Im  = IkB mRNA concentration
+%   In  = free nuclear IkB concentration
+%   I   = cytoplasmic IkB concentration
+%   NIn = nuclear NF-kB:IkB complex concentration
+%   NI  = cytoplasmic NF-kB:IkB complex concentration
 %
 %   Parameters:
 %
-%   kNin   =  (days^-1)
-%   kIin   =  (ind^-1*days^-1)
-%   kIout  =  (days^-1)
-%   kNIout =  (ind^-1*days^-1)
-%   kt     =  (days^-1)
-%   ktl    =  (ind^-1*days^-1)
-%   kf     =  (days^-1)
-%   kfn    =  (ind^-1*days^-1)
-%   kb     =  (days^-1)
-%   kbn    =  (ind^-1*days^-1)
-%   gammam =  (days^-1)
-%   IKK    =  (ind^-1*days^-1) 
+%   kNin   =  NF-kB nuclear import rate (min^-1)
+%   kIin   =  IkB nuclear import rate (min^-1)
+%   kIout  =  IkB cytoplasm export rate (min^-1)
+%   kNIout =  NF-kB:IkB complex export rate (min^-1)
+%   kt     =  IκB mRNA transcription rate (muM^-1 * min^-1)
+%   ktl    =  IκB mRNA translation rate (min^-1)
+%   kf     =  NF-κB:IκB cytoplasm association rate (muM^-1 * min^-1)
+%   kfn    =  NF-κB:IκB nuclear association rate (muM^-1 * min^-1)
+%   kb     =  NF-κB:IκB cytoplasm dissociation rate (min^-1)
+%   kbn    =  NF-κB:IκB nuclear dissociation rate (min^-1)
+%   gammam =  mRNA degradation rate (min^-1)
+%   IKK    =  IkB Kinase initial concentration
 % ----------------------------------------------------------------- 
 %  
+%  Adriano Cortes
+%  adriano@nacad.ufrj.br
 %
-%  last update: 
+%  last update: Jul, 02 2020
 % -----------------------------------------------------------------
 
 %% Function
@@ -62,6 +68,7 @@ function ydot = rhs_nfkb_7vars(t,y,param)
   gammam =  param(11);  
   IKK    =  param(12);
   
+  % alpha := IκB degradation rate (by phosphorylation)
   alpha  = 1.05*IKK;
 
   ydot = zeros(size(y));
