@@ -1,8 +1,6 @@
-# Sobol' indices for Biological Systems
-
 ![SoBioS Logo](logo/SoBioS_logo.png)
 
-**SoBioS** is an easy to run Matlab code used for Sobol' indices-based global sensitivity analysis of Biological Systems. The implementation follows an educational style, to make its use very intuitive. This package includes the following modules:
+**SoBioS - Sobol' indices for Biological Systems** is an easy to run Matlab code used for Sobol' indices-based global sensitivity analysis of Biological Systems. The implementation follows an educational style, to make its use very intuitive. This package includes the following modules:
 
 - SoBioS_CaseName.m - main file for the simulation (use servaral resourses from UQLab package);
 - QoI_CaseName.m - function to compute the Quantity of Interest (QoI).
