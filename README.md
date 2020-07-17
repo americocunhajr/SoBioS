@@ -16,12 +16,12 @@ https://www.uqlab.com
 
 This external package is free for academic use.
 
-## Authors:
+## Authors
 - Michel Tosin (UERJ) - https://www.researchgate.net/profile/Michel_Tosin
 - Adriano Côrtes (UFRJ) - https://www.researchgate.net/profile/Adriano_Cortes
 - Americo Cunha (UERJ) - www.americocunha.org
 
-## Citing SoBioS:
+## Citing
 
 We kindly ask users to cite the following reference in any publications reporting work done with **SoBioS**:
 - *Michel Tosin, Adriano Côrtes, Americo Cunha Jr, A Tutorial on Sobols' Global Sensitivity Analysis Applied to Biological Models, 2020*
