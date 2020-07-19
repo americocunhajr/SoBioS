@@ -17,9 +17,9 @@ https://www.uqlab.com
 This external package is free for academic use.
 
 ## Authors
-- Michel Tosin (UERJ) - https://www.researchgate.net/profile/Michel_Tosin
-- Adriano Côrtes (UFRJ) - https://www.researchgate.net/profile/Adriano_Cortes
-- Americo Cunha (UERJ) - www.americocunha.org
+- Michel Tosin
+- Adriano Côrtes
+- Americo Cunha
 
 ## Citing
 
