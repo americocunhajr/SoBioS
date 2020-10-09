@@ -11,7 +11,7 @@ This package includes the following modules:
 ## Software History
 
 This code was developed as a pedagogical tool to teach the basics of global sensitivity analysis of biological systems via Sobol' indices. A tutorial explaining the theory and practical aspects behind **SoBioS** package is provided in the following book chapter:
-- *M, Tosin, A. Côrtes, A. Cunha Jr (2020), A Tutorial on Sobols' Global Sensitivity Analysis Applied to Biological Models,  In: da Silva F.A.B., Carels N., Trindade dos Santos M., Lopes F.J.P. (eds) Networks in Systems Biology. Computational Biology, vol 32. Springer, Cham.* https://doi.org/10.1007/978-3-030-51862-2_62020
+- *Tosin M., Côrtes A.M.A., Cunha A. (2020) A Tutorial on Sobol’ Global Sensitivity Analysis Applied to Biological Models. In: da Silva F.A.B., Carels N., Trindade dos Santos M., Lopes F.J.P. (eds) Networks in Systems Biology. Computational Biology, vol 32. Springer, Cham.* https://doi.org/10.1007/978-3-030-51862-2_6
 
 ## UQLab dependency
 
@@ -28,7 +28,7 @@ This external package is free for academic use.
 ## Citing SoBioS
 
 We kindly ask users to cite the following reference in any publications reporting work done with **SoBioS**:
-- *M, Tosin, A. Côrtes, A. Cunha Jr (2020), A Tutorial on Sobols' Global Sensitivity Analysis Applied to Biological Models,  In: da Silva F.A.B., Carels N., Trindade dos Santos M., Lopes F.J.P. (eds) Networks in Systems Biology. Computational Biology, vol 32. Springer, Cham.* https://doi.org/10.1007/978-3-030-51862-2_62020
+- *Tosin M., Côrtes A.M.A., Cunha A. (2020) A Tutorial on Sobol’ Global Sensitivity Analysis Applied to Biological Models. In: da Silva F.A.B., Carels N., Trindade dos Santos M., Lopes F.J.P. (eds) Networks in Systems Biology. Computational Biology, vol 32. Springer, Cham.* https://doi.org/10.1007/978-3-030-51862-2_6
 
 ## License
 
