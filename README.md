@@ -30,6 +30,20 @@ This external package is free for academic use.
 We kindly ask users to cite the following reference in any publications reporting work done with **SoBioS**:
 - *Tosin M., Côrtes A.M.A., Cunha A. (2020) A Tutorial on Sobol’ Global Sensitivity Analysis Applied to Biological Models. In: da Silva F.A.B., Carels N., Trindade dos Santos M., Lopes F.J.P. (eds) Networks in Systems Biology. Computational Biology, vol 32. Springer, Cham.* https://doi.org/10.1007/978-3-030-51862-2_6
 
+```
+@incollection{Tosin2020SoBioS,
+   author    = {M. Tosin and A. M. A. C\ˆ{o}rtes and A. {Cunha~Jr}},
+   title     = {{A} {T}utorial on {S}obol’ {G}lobal {S}ensitivity {A}nalysis {A}pplied to {B}iological {M}odels},
+   editor    = {F.A.B. {da Silva} and N. Carels and M. {Trindade dos Santos} and F.J.P. Lopes},
+   booktitle = {Networks in Systems Biology},
+   publisher = {Springer},
+   address   = {Cham},
+   year      = {2020},
+   pages     = {93-118},
+   doi       = {https://doi.org/10.1007/978-3-030-51862-2_6},
+}
+```
+
 ## License
 
 **SoBioS** is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.
