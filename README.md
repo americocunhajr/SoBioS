@@ -33,7 +33,7 @@ We kindly ask users to cite the following reference in any publications reportin
 ```
 @incollection{Tosin2020SoBioS,
    author    = {M. Tosin and A. M. A. C\ˆ{o}rtes and A. {Cunha~Jr}},
-   title     = {{A} {T}utorial on {S}obol’ {G}lobal {S}ensitivity {A}nalysis {A}pplied to {B}iological {M}odels},
+   title     = { {A} {T}utorial on {S}obol’ {G}lobal {S}ensitivity {A}nalysis {A}pplied to {B}iological {M}odels},
    editor    = {F.A.B. {da Silva} and N. Carels and M. {Trindade dos Santos} and F.J.P. Lopes},
    booktitle = {Networks in Systems Biology: Applications for Disease Modeling},
    publisher = {Springer International Publishing},
