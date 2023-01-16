@@ -48,7 +48,12 @@ We kindly ask users to cite the following reference in any publications reportin
 
 **SoBioS** is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.
 
+<img src="logo/mit_license_red.png" width="10%"> 
+
+## Institutional support
+
+<img src="logo/logo_uerj_color.jpeg" width="10%"> &nbsp; &nbsp; <img src="logo/logo_ufrj.png" width="8%">
+
 ## Funding
 
 <img src="logo/faperj.jpg" width="20%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%">
-
