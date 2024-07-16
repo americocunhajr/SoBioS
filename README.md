@@ -1,24 +1,55 @@
 <img src="logo/SoBioS.png" width="40%">
 
-**SoBioS: Sobol' Indices for Biological Systems** is an easy-to-run Matlab code used for Sobol' indices-based global sensitivity analysis of Biological Systems. The implementation follows an educational style, to make its use very intuitive. 
+**SoBioS: Sobol' Indices for Biological Systems** is an easy-to-use Matlab code designed for Sobol' indices-based global sensitivity analysis of biological systems. Developed with an educational approach, **SoBioS** is intuitive and user-friendly, making it an excellent tool for researchers and students in the field of systems biology.
 
-This package includes the following modules:
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [UQLab Dependency](#uqlab-dependency)
+- [Usage](#usage)
+- [Documentation](#documentation)
+- [Authors](#authors)
+- [Citing SoBioS](#citing-sobios)
+- [License](#license)
+- [Institutional Support](#institutional-support)
+- [Funding](#funding)
 
-- SoBioS_CaseName.m - main file for the simulation (use servaral resourses from UQLab package);
-- QoI_CaseName.m - function to compute the Quantity of Interest (QoI).
+## Overview
+**SoBioS** was developed as a pedagogical tool to teach the basics of global sensitivity analysis of biological systems via Sobol' indices. A tutorial explaining the theory and practical aspects behind the **SoBioS** package is provided in the following book chapter:
+- **M. Tosin, A.M.A. Côrtes, A. Cunha Jr**, *A Tutorial on Sobol’ Global Sensitivity Analysis Applied to Biological Models*, in Networks in Systems Biology: Applications for Disease Modeling, Computational Biology, vol. 32, Springer, Cham, 2020. [DOI](https://doi.org/10.1007/978-3-030-51862-2_6)
 
-
-## Software History
-
-This code was developed as a pedagogical tool to teach the basics of global sensitivity analysis of biological systems via Sobol' indices. A tutorial explaining the theory and practical aspects behind **SoBioS** package is provided in the following book chapter:
-- *Tosin M., Côrtes A.M.A., Cunha A. (2020) A Tutorial on Sobol’ Global Sensitivity Analysis Applied to Biological Models. In: da Silva F.A.B., Carels N., Trindade dos Santos M., Lopes F.J.P. (eds) Networks in Systems Biology: Applications for Disease Modeling. Computational Biology, vol 32. Springer, Cham https://doi.org/10.1007/978-3-030-51862-2_6*
+## Features
+- Global sensitivity analysis using Sobol' indices
+- Easy-to-run Matlab implementation
+- Educational style code for easy understanding
+- Includes example cases and detailed comments
 
 ## UQLab dependency
-
 In order to use the **SoBioS** code, it is necessary to have UQLab package installed:
 https://www.uqlab.com
 
 This external package is free for academic use.
+
+## Usage
+This package includes the following modules:
+- SoBioS_CaseName.m - main file for the simulation (use servaral resourses from UQLab package);
+- QoI_CaseName.m - function to compute the Quantity of Interest (QoI).
+
+To get started with **SoBioS**, follow these steps:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/SoBioS.git
+   ```
+2. Navigate to the code directory:
+   ```bash
+   cd SoBioS/SoBioS-1.0
+   ```
+3. To run a simulation, execute the main file corresponding to your case:
+   ```bash
+   SoBioS_CaseName
+   ```
+## Documentation
+The routines in SoBioS are well-commented to explain their functionality. Each routine includes a description of its purpose, as well as inputs and outputs. Detailed documentation can be found within the code comments and the provided tutorial.
 
 ## Authors
 - Michel Tosin
@@ -26,8 +57,7 @@ This external package is free for academic use.
 - Americo Cunha
 
 ## Citing SoBioS
-
-We kindly ask users to cite the following reference in any publications reporting work done with **SoBioS**:
+If you use **SoBioS** in your research, please cite the following publication:
 - *Tosin M., Côrtes A.M.A., Cunha A. (2020) A Tutorial on Sobol’ Global Sensitivity Analysis Applied to Biological Models. In: da Silva F.A.B., Carels N., Trindade dos Santos M., Lopes F.J.P. (eds) Networks in Systems Biology: Applications for Disease Modeling. Computational Biology, vol 32. Springer, Cham https://doi.org/10.1007/978-3-030-51862-2_6*
 
 ```
