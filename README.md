@@ -48,6 +48,7 @@ To get started with **SoBioS**, follow these steps:
    ```bash
    SoBioS_CaseName
    ```
+
 ### Documentation
 The routines in SoBioS are well-commented to explain their functionality. Each routine includes a description of its purpose, as well as inputs and outputs. Detailed documentation can be found within the code comments and the provided tutorial.
 
