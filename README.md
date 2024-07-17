@@ -38,7 +38,7 @@ This package includes the following modules:
 To get started with **SoBioS**, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SoBioS.git
+   git clone https://github.com/americocunhajr/SoBioS.git
    ```
 2. Navigate to the code directory:
    ```bash
