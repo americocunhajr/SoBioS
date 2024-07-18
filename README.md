@@ -2,6 +2,10 @@
 
 **SoBioS: Sobol' Indices for Biological Systems** is an easy-to-use Matlab code designed for Sobol' indices-based global sensitivity analysis of biological systems. Developed with an educational approach, **SoBioS** is intuitive and user-friendly, making it an excellent tool for researchers and students in the field of systems biology.
 
+<p align="center">
+<img src="logo/SobolIndices.png" width="60%">
+</p>
+
 ### Table of Contents
 - [Overview](#overview)
 - [Features](#features)
