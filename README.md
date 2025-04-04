@@ -87,8 +87,8 @@ If you use **SoBioS** in your research, please cite the following publication:
 
 ### Institutional support
 
-<img src="logo/logo_uerj_color.jpeg" width="10%"> &nbsp; &nbsp; <img src="logo/logo_ufrj.png" width="8%">
+<img src="logo/logo_uerj.png" width="12%"> &nbsp; &nbsp; <img src="logo/logo_ufrj.png" width="8%">
 
 ### Funding
 
-<img src="logo/faperj.jpg" width="20%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%">
+<img src="logo/faperj.png" width="20%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%">
